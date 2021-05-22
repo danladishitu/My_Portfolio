@@ -23,5 +23,5 @@ The following packages must be imported from the sci-kit learn libraries:
 * LinearRegression
 * PolynomialFeatures
 * BayesianRidge
-* 
+
 This link will provide you with additional information about the packages. https://scikit-learn.org/stable/supervised_learning.html
