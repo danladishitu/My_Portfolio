@@ -1,4 +1,6 @@
 
+# Project is ongoing...
+
 ### Intelligent player scouting and talent acquisition for football managers
 
 **Can clustering algorithm improve the player selection of a team?**
