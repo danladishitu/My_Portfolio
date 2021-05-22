@@ -4,6 +4,8 @@ As we all know that probabilistic topic models are a class of unsupervised machi
 
 Our goal is to determine the number of topics (k) in a dataset. Similar to the algorithm that determines trends on Twitter. 
 
+The jupyter notebook containing all of the implementation is called **TopicModelling.ipynb**.
+
 I have provided the link to download the dataset below:
 * https://www.kaggle.com/danofer/starter-dbpedia-extraction
 
