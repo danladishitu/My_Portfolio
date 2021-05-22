@@ -51,6 +51,9 @@ As we all know that probabilistic topic models are a class of unsupervised machi
 
 Our goal is to determine the number of topics (k) in a dataset. Similar to the algorithm that determines trends on Twitter. 
 
+I have provided the link to download the dataset below:
+* https://www.kaggle.com/danofer/starter-dbpedia-extraction
+
 Packages that will be required to run the code:
 
 * Pandas 
@@ -68,4 +71,5 @@ Packages that will be required to run the code:
 * CoherenceModel
 * LdaModel
 * Tqdm
+
 
