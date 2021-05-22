@@ -8,7 +8,7 @@ FairnessInML_2021 jupyter notebook is where I have all my codes implemented. I h
 The metropolitan police dataset is 74mb too large for GitHub, but I have included a link to download it inside the codes.
 
 * https://data.london.gov.uk/dataset/use-of-force
-Kindly click on the link provided above to access the dataset.
+* Kindly click on the link provided above to access the dataset.
 
 Incase you run into this error message "Sorry, something went wrong. Reload?" while attempting to launch the jupyter notebook from GitHub:
 
