@@ -24,3 +24,4 @@ Packages that will be required to run the code:
 * CoherenceModel
 * LdaModel
 * Tqdm
+* PyLDAvis
