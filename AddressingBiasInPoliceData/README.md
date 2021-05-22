@@ -1,7 +1,12 @@
 
-##Adressing Bias in Police Data
+## Adressing Bias in Police Data
 
 The structure of the model is described in two phases. The first step is to successfully develop an AI model that aids in predictive policing. The model should be able to identify the suspect and the type of crime that is likely to be committed based on the data points on which it was trained. This will then prepare the police and assist them in deciding on a plan for using force. The second step is to investigate for bias in the model and use the various metrics provided by IBM AIF360 toolkit to minimise any bias.
+
+Incase you run into this error message "Sorry, something went wrong. Reload?" while attempting to launch the jupyter notebook from GitHub:
+
+* Please visit "https://nbviewer.jupyter.org/"
+* Copy the Url link of my jupyter notebook like this "https://github.com/danladishitu/My_Portfolio/blob/main/TravelInsurance/TravelInsuranceClassification.ipynb" and paste it into the nbviewer search box. Please feel free to download the notebook and use it however you see necessary.
 
 FairnessInML_2021 jupyter notebook is where I have all my codes implemented. I have also included the python executable code.
 
