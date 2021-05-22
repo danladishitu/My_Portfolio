@@ -84,5 +84,8 @@ Packages that will be required to run the code:
 
 **Models should be able to offer recommendation on players based on the manager's preferences.**
 
+Link to download the dataset is provided below
+* https://www.kaggle.com/karangadiya/fifa19/code
+
 
 
