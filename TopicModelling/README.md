@@ -4,7 +4,11 @@ As we all know that probabilistic topic models are a class of unsupervised machi
 
 Our goal is to determine the number of topics (k) in a dataset. Similar to the algorithm that determines trends on Twitter. 
 
-The jupyter notebook containing all of the implementation is called **TopicModelling.ipynb**.
+The jupyter notebook containing all of the implementation is called **LDA_Dbpedia.ipynb**.
+
+Incase you run into this error message **"Sorry, something went wrong. Reload?"**  while attempting to launch the jupyter notebook from GitHub:
+* Please visit "https://nbviewer.jupyter.org/" 
+* Copy the Url link of my jupyter notebook like this "https://github.com/danladishitu/My_Portfolio/blob/main/TravelInsurance/TravelInsuranceClassification.ipynb" and paste it into the nbviewer search box. Please feel free to download the notebook and use it however you see necessary.
 
 I have provided the link to download the dataset below:
 * https://www.kaggle.com/danofer/starter-dbpedia-extraction
