@@ -19,7 +19,7 @@ The travel insurance company has provided us with historical data about their cl
 
 **Solution**
 
-To solve these problems, I used four different classification algorithms: random forest, logistic regression, decision tree, and support vector machine. On the test set, these algorithms achieved an accuracy of more than 85%. This demonstrates that the model correctly predicted which customers are likely to file a claim in the future. I have evaluated the model performance using a hold-out test range, which are both clearly presented in the jupyter notebook.
+To solve these problems, I used four different classification algorithms: random forest, logistic regression, decision tree, and support vector machine. On the test set, these algorithms achieved an accuracy of more than 85%. This demonstrates that the model correctly predicted which customers are likely to file a claim in the future. I have evaluated the model performance using a hold-out test set, which are both clearly presented in the jupyter notebook.
 
 The following packages must be imported from the sci-kit learn libraries:
 
