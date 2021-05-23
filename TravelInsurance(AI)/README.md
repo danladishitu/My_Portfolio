@@ -12,11 +12,11 @@ Incase you run into this error message "Sorry, something went wrong. Reload?" wh
 * Please visit "https://nbviewer.jupyter.org/"
 * Copy the Url link of my jupyter notebook like this "https://github.com/danladishitu/My_Portfolio/blob/main/TravelInsurance/TravelInsuranceClassification.ipynb" and paste it into the nbviewer search box. Please feel free to download the notebook and use it however you see necessary.
 
-Problem 
+**Problem** 
 A travel insurance company would like to offer a discounted premium (for the same cover requested) to customers that are less likely to make a future claim.
 The travel insurance company has provided us with historical data about their clients, but they are now interested in using machine learning to determine which customers are likely to file a claim on their future travel. 
 
-Solution
+**Solution**
 To solve these problems, I used four different classification algorithms: random forest, logistic regression, decision tree, and support vector machine. On the test set, these algorithms achieved an accuracy of more than 85%. This demonstrates that the model correctly predicted which customers are likely to file a claim in the future. I have evaluated the model performance using a hold-out test range, which are both clearly presented in the jupyter notebook.
 
 The following packages must be imported from the sci-kit learn libraries:
