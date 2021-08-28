@@ -73,5 +73,3 @@ This link will provide additional information about the packages. https://scikit
 
 
 
-Link to download the dataset is provided below
-* https://www.kaggle.com/karangadiya/fifa19/code
