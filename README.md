@@ -188,7 +188,7 @@ This link will provide additional information about the packages. https://scikit
 - The model will help in the pursuit of targeted email marketing: for each campaign, emails will be delivered to just those clients who are most likely to purchase the advertised product.
 
 
-I have used Python and its diverse library to build the machine learning pipeline to tackle this classification problem. To improve readability, the code was written in a Jupyter notebook.
+I have used Python and its diverse library to build the machine learning pipeline to tackle this classification problem. To improve readability, the code was written in a Jupyter notebook.The codes can be found in __EmailClassification.ipynb__
 
 The following are the four machine learning algorithms for classification problems:
 
